@@ -1,0 +1,6 @@
+{
+  "name": "GOLD NO1 — Luxury Indian Gold & Diamond Jewellery",
+  "description": "Where Every Gold Story Begins. Discover timeless BIS Hallmarked 22K & 24K gold and certified diamond jewellery crafted for weddings, celebrations, and everyday elegance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
